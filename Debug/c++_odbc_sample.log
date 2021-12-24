@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (ConsoleApplication29.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Ivica_Anic_ODBC_C++.cpp
+D:\.net.core.5.0\Ivica_Anic_ODBC_C++\Ivica_Anic_ODBC_C++.cpp(352,35): warning C4101: "dest": Unreferenzierte lokale Variable
+  c++_odbc_sample.vcxproj -> D:\.net.core.5.0\Ivica_Anic_ODBC_C++\Debug\Ivica_Anic_ODBC_C++.exe
